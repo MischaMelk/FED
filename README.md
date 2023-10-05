@@ -209,6 +209,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Wat bij mij niet helemaal goed ging is dat ik dus te laat dacht aan grid en aan responsive ontwerpen. Ik heb dit op een bepaalde hoogte goed kunnen oplossen achteraf maar het had me veel meer tijd kunnen schelen. 
   Ik wil graag dat alle secties in een zelfde grid template staan maar dat was voor deze site heel lastig uit te werken waardoor ik dus een beetje creatief moest wezen af en toe.
   Als ik de volgende keer aan de slag ga wil ik nog minder met flexbox werken.
+
+
+  Hierbij de links voor mijn beide pagina's naar de html validator toe:
+
+  <a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fmischamelk.github.io%2FFED%2Flyrics.html"></a>
+  <a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fmischamelk.github.io%2FFED%2F"></a>
 </details>
 
 
